@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261569284078",
+    "project_id": "ayurva-a0cf6",
+    "storage_bucket": "ayurva-a0cf6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261569284078:android:f5ed55f6afe894786ff0ff",
+        "android_client_info": {
+          "package_name": "com.example.ayurva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7bz98lXX7vwPbBJoMo4n-7A52z8-2omc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
