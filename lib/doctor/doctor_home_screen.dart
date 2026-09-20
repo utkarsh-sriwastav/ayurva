@@ -17,6 +17,7 @@ class DoctorHomeScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(title: const Text('Doctor Home')),
+      
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(24),
